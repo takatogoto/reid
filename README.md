@@ -11,3 +11,6 @@ http://openaccess.thecvf.com/content_cvpr_2017/papers/Zheng_Person_Re-Identifica
 
 ## Web
 http://rose1.ntu.edu.sg/PersonReId/
+
+## tutorial
+https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/tutorial  
